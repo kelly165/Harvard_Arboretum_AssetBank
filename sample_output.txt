@@ -1,0 +1,49 @@
+assetId	att:Plant Accession Number and Qualifier:764	att:Scientific Name:746	att:Plant Name HTML:741	att:Family:743	att:Genus:744	att:Species:745	att:Cultivar:763
+16628	531-79*B	Abies x borisii-regis	<I>Abies</I> &times;<I>borisii-regis</I>	Pinaceae	Abies	borisii-regis	
+16627	531-79*B	Abies x borisii-regis	<I>Abies</I> &times;<I>borisii-regis</I>	Pinaceae	Abies	borisii-regis	
+16626	531-79*B	Abies x borisii-regis	<I>Abies</I> &times;<I>borisii-regis</I>	Pinaceae	Abies	borisii-regis	
+16625	864-63	Abies pinsapo	<I>Abies pinsapo</I>	Pinaceae	Abies	pinsapo	
+16624	864-63	Abies pinsapo	<I>Abies pinsapo</I>	Pinaceae	Abies	pinsapo	
+16623	352-97	Abies nephrolepis	<I>Abies nephrolepis</I>	Pinaceae	Abies	nephrolepis	
+16622	352-97	Abies nephrolepis	<I>Abies nephrolepis</I>	Pinaceae	Abies	nephrolepis	
+16621	308-97	Abies nephrolepis	<I>Abies nephrolepis</I>	Pinaceae	Abies	nephrolepis	
+16620	308-97	Abies nephrolepis	<I>Abies nephrolepis</I>	Pinaceae	Abies	nephrolepis	
+16619	308-97	Abies nephrolepis	<I>Abies nephrolepis</I>	Pinaceae	Abies	nephrolepis	
+16618	858-63	Abies nebrodensis	<I>Abies nebrodensis</I>	Pinaceae	Abies	nebrodensis	
+16617	531-79*B	Abies x borisii-regis	<I>Abies</I> &times;<I>borisii-regis</I>	Pinaceae	Abies	borisii-regis	
+16616	118-2006	Abies lasiocarpa var. arizonica	<I>Abies lasiocarpa</I> var. <I>arizonica</I>	Pinaceae	Abies	lasiocarpa	
+16615	118-2006	Abies lasiocarpa var. arizonica	<I>Abies lasiocarpa</I> var. <I>arizonica</I>	Pinaceae	Abies	lasiocarpa	
+16608	10645*A	Abies koreana	<I>Abies koreana</I>	Pinaceae	Abies	koreana	
+16607	10645*A	Abies koreana	<I>Abies koreana</I>	Pinaceae	Abies	koreana	
+16606	10645*A	Abies koreana	<I>Abies koreana</I>	Pinaceae	Abies	koreana	
+16605	273-98	Abies kawakamii	<I>Abies kawakamii</I>	Pinaceae	Abies	kawakamii	
+16604	273-98	Abies kawakamii	<I>Abies kawakamii</I>	Pinaceae	Abies	kawakamii	
+16602	12413*B	Abies homolepis var. homolepis	<I>Abies homolepis</I> var. <I>homolepis</I>	Pinaceae	Abies	homolepis	
+16601	12413*B	Abies homolepis var. homolepis	<I>Abies homolepis</I> var. <I>homolepis</I>	Pinaceae	Abies	homolepis	
+16600	12413*B	Abies homolepis var. homolepis	<I>Abies homolepis</I> var. <I>homolepis</I>	Pinaceae	Abies	homolepis	
+16597	288-43*A	Abies cephalonica	<I>Abies cephalonica</I>	Pinaceae	Abies	cephalonica	
+16596	288-43*A	Abies cephalonica	<I>Abies cephalonica</I>	Pinaceae	Abies	cephalonica	
+16595	531-79*B	Abies x borisii-regis	<I>Abies</I> &times;<I>borisii-regis</I>	Pinaceae	Abies	borisii-regis	
+16594	531-79*B	Abies x borisii-regis	<I>Abies</I> &times;<I>borisii-regis</I>	Pinaceae	Abies	borisii-regis	
+16593	531-79*B	Abies x borisii-regis	<I>Abies</I> &times;<I>borisii-regis</I>	Pinaceae	Abies	borisii-regis	
+16592	864-63	Abies pinsapo	<I>Abies pinsapo</I>	Pinaceae	Abies	pinsapo	
+16591	864-63	Abies pinsapo	<I>Abies pinsapo</I>	Pinaceae	Abies	pinsapo	
+16590	352-97	Abies nephrolepis	<I>Abies nephrolepis</I>	Pinaceae	Abies	nephrolepis	
+16589	352-97	Abies nephrolepis	<I>Abies nephrolepis</I>	Pinaceae	Abies	nephrolepis	
+16588	308-97	Abies nephrolepis	<I>Abies nephrolepis</I>	Pinaceae	Abies	nephrolepis	
+16587	308-97	Abies nephrolepis	<I>Abies nephrolepis</I>	Pinaceae	Abies	nephrolepis	
+16586	308-97	Abies nephrolepis	<I>Abies nephrolepis</I>	Pinaceae	Abies	nephrolepis	
+16585	858-63	Abies nebrodensis	<I>Abies nebrodensis</I>	Pinaceae	Abies	nebrodensis	
+16584	531-79*B	Abies x borisii-regis	<I>Abies</I> &times;<I>borisii-regis</I>	Pinaceae	Abies	borisii-regis	
+16583	118-2006	Abies lasiocarpa var. arizonica	<I>Abies lasiocarpa</I> var. <I>arizonica</I>	Pinaceae	Abies	lasiocarpa	
+16582	118-2006	Abies lasiocarpa var. arizonica	<I>Abies lasiocarpa</I> var. <I>arizonica</I>	Pinaceae	Abies	lasiocarpa	
+16575	10645*A	Abies koreana	<I>Abies koreana</I>	Pinaceae	Abies	koreana	
+16574	10645*A	Abies koreana	<I>Abies koreana</I>	Pinaceae	Abies	koreana	
+16573	10645*A	Abies koreana	<I>Abies koreana</I>	Pinaceae	Abies	koreana	
+16572	273-98	Abies kawakamii	<I>Abies kawakamii</I>	Pinaceae	Abies	kawakamii	
+16571	273-98	Abies kawakamii	<I>Abies kawakamii</I>	Pinaceae	Abies	kawakamii	
+16569	12413*B	Abies homolepis var. homolepis	<I>Abies homolepis</I> var. <I>homolepis</I>	Pinaceae	Abies	homolepis	
+16568	12413*B	Abies homolepis var. homolepis	<I>Abies homolepis</I> var. <I>homolepis</I>	Pinaceae	Abies	homolepis	
+16567	12413*B	Abies homolepis var. homolepis	<I>Abies homolepis</I> var. <I>homolepis</I>	Pinaceae	Abies	homolepis	
+16564	288-43*A	Abies cephalonica	<I>Abies cephalonica</I>	Pinaceae	Abies	cephalonica	
+16563	288-43*A	Abies cephalonica	<I>Abies cephalonica</I>	Pinaceae	Abies	cephalonica	
