@@ -1,6 +1,6 @@
 <?php
 /*
-Kelly Chen  August 2022
+Kelly Chen 2022
 Arnold Arboretum of Harvard university has a digital system called Asset Bank. 
 One of its collections houses plant seed images. With the sole exception of image names, there is no plant metadata asociated with these images.
 This project is a proposed method to provide a web interface through which staff memebers can upload a text file containing 
