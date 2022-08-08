@@ -12,7 +12,7 @@ It then generates a file that can be used to batch upload the info back into Ass
 */
 
 $cgi_method = getenv("REQUEST_METHOD");
-print <<<EOT
+$html_header =<<<EOT
 <!DOCTYPE html>
 <html>
 <header>
@@ -36,6 +36,7 @@ function confirmation() {
 EOT;
 
 if ($cgi_method == "GET") {
+	print $html_header;
 	print <<<EOT
 Please upload a tab delimited text file downloaded from AssetBank with Asset Ids and file names.
 <br /><br />
@@ -83,11 +84,12 @@ EOT;
 					//extract plant id using reguar expression
 					$id_line = $line_arr[2];
 					preg_match("/(\d+[^_]*)/", $id_line, $matches); 
+					$plant_id = $matches[1];
 
 	
 					//query the plant database
 					$sql = "SELECT p.acc_num_and_qual, p.name, p.scientific_name, p.name_html, p.family, p.genus, p.species, p.cultivar ".
-					"FROM plant_from_gis p WHERE replace(p.acc_num_and_qual, '*', '-') = '$asset_id'";
+					"FROM plant_from_gis p WHERE replace(p.acc_num_and_qual, '*', '-') = '$plant_id'";
 					if(!$result = $db->query($sql)){
 						print "sql failed " . $sql;
 						exit;
@@ -97,6 +99,7 @@ EOT;
 							fwrite($file2, $asset_id . "\t" . $row['acc_num_and_qual'] . "\t" . $row['scientific_name'] . "\t" . $row['name_html'] . "\t" .
 							$row['family'] . "\t" . $row['genus'] . "\t" . $row['species'] . "\t" . $row['cultivar'] . "\n");
 						}
+						//print $asset_id . "<br />";
 					}
 					
 				}
@@ -105,10 +108,28 @@ EOT;
 		}
 		fclose($file2);
 		fclose($file);
-		print "Process Complete";
+		//print "Process Complete";
        
+	   
+	   
+	    if (file_exists("output_" . $timestamp. ".txt")) {
+			header('Content-Description: File Transfer');
+			header('Content-Type: application/octet-stream');
+			header('Content-Disposition: attachment; filename="'.basename("output_" . $timestamp. ".txt").'"');
+			header('Expires: 0');
+			header('Cache-Control: must-revalidate');
+			header('Pragma: public');
+			header('Content-Length: ' . filesize("output_" . $timestamp. ".txt"));
+			readfile("output_" . $timestamp. ".txt");
+			exit;
+		} else {
+			print "File not found";
+			exit;
+		}
+		
     }
-	print "</body>";
-	print "</html>";
+	//end of post
+	//print "</body>";
+	//print "</html>";
 }
 ?>
